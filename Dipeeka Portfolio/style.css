@@ -1,0 +1,196 @@
+
+
+.main-name{
+    display: flex;
+    font-family: poppins,sans-serif;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins,sans-serif;
+    font-size:x-large;
+    margin-left: 100px;
+}
+
+.navbar-section{
+    margin-left: 800px;
+}
+
+.main1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.Greetings{
+    text-align: center;
+    padding: 100px;
+    font-family: poppins,sans-serif;
+}
+
+.download-btn{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+
+.cv{
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 180px;
+    margin: 10px;
+}
+
+.contact-info{
+    border: 2px solid black ;
+    border-radius: 50px;
+    width: 180px;
+    margin: 10px;
+}
+
+
+.para-1{
+    width: 800px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50px;
+}
+
+.Experience{
+    font-family: poppins,sans-serif;
+    margin-top: 150px;
+}
+
+.About-me-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    font-family: poppins,sans-serif;
+    margin-top: 50px; /* Add some top margin for better spacing */
+}
+
+.profile-pic img {
+    max-width: 100%; /* Ensure the image does not exceed its container */
+}
+
+.paragraph {
+    max-width: 800px; /* Adjust the maximum width of the paragraph content */
+    padding: 20px;
+}
+
+.panel {
+    padding: 20px;
+    font-family: poppins,sans-serif;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.panel h1 {
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.panel_head {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 20px;
+    width: 500px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.box h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.Tech-skill h3,
+.web-skill h3 {
+    margin: 5px 0;
+}
+
+
+.project-head {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.project-head h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+    font-family: poppins,sans-serif;
+    margin-top: 150px;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.projects .project1,
+.projects .project2,
+.projects .project3 {
+    margin: 0 10px;
+}
+
+.projects .project1 img,
+.projects .project2 img,
+.projects .project3 img {
+    max-width: 100%;
+    border: 5px solid rgba(0, 0, 0, 0.765);
+    border-radius: 50px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.projects .project1 img:hover,
+.projects .project2 img:hover,
+.projects .project3 img:hover {
+    transform: scale(1.05);
+}
+
+
+.h1{
+    text-align: center;
+}
+
+.footer-panel{
+    background-color: rgba(0, 0, 0, 0.911);
+    height: 200px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}   
+
+
+
+.footer-panel2{
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+
+}
+
